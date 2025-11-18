@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "79bcbb09-af49-416e-be73-01b182215964",
+    "id": "42c2031a-0dc5-4808-9137-64c026a4e2fa",
     "projectId": "60874a00-2610-400a-8c61-ed2e971c89ab",
-    "version": 430,
-    "createdAt": "2025-11-18T15:07:54.664+00:00",
-    "updatedAt": "2025-11-18T15:07:54.664+00:00",
+    "version": 436,
+    "createdAt": "2025-11-18T16:01:49.24+00:00",
+    "updatedAt": "2025-11-18T16:01:49.24+00:00",
     "pages": {
       "meta": {
         "siteName": "TOM Brooklin",
@@ -16178,19 +16178,6 @@
         }
       ],
       [
-        "LzFj88dUBoifFKw8ioT2C:tHS8zcPAFHnQRlgZJrj7A:height:",
-        {
-          "styleSourceId": "LzFj88dUBoifFKw8ioT2C",
-          "breakpointId": "tHS8zcPAFHnQRlgZJrj7A",
-          "property": "height",
-          "value": {
-            "type": "unit",
-            "unit": "px",
-            "value": 18
-          }
-        }
-      ],
-      [
         "LzFj88dUBoifFKw8ioT2C:7j3oRg-LlhgYdMCn8U6hu:display:",
         {
           "breakpointId": "7j3oRg-LlhgYdMCn8U6hu",
@@ -19441,6 +19428,32 @@
             "type": "unit",
             "unit": "px",
             "value": 16
+          }
+        }
+      ],
+      [
+        "XNJjxyjDip1ckbfc_PyDx:a3gYD0nHuDHHYgY6TD4Jn:maxHeight:",
+        {
+          "breakpointId": "a3gYD0nHuDHHYgY6TD4Jn",
+          "styleSourceId": "XNJjxyjDip1ckbfc_PyDx",
+          "property": "maxHeight",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 96
+          }
+        }
+      ],
+      [
+        "LzFj88dUBoifFKw8ioT2C:vRn9EQlChKZicUNUGp2-F:height:",
+        {
+          "breakpointId": "vRn9EQlChKZicUNUGp2-F",
+          "styleSourceId": "LzFj88dUBoifFKw8ioT2C",
+          "property": "height",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 24
           }
         }
       ]
