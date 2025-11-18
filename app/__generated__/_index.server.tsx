@@ -21,11 +21,11 @@ export const getResources = (_props: { system: System }) => {
   resources: Record<string, any>;
 }): PageMeta => {
   return {
-    title: "VP Moema - 1 e 2 dorms. - Lançamento VistaPlan",
-    description: "Na esquina da Lavandisca com a Gaivota, estar bem localizado é só o começo de viver Moema por inteiro. Quando decidimos avançar é porque sabemos que merecemos mais. Mais tempo, mais escolhas, mais vida e qualidade a cada dia. Com as melhores opções dentro e fora de casa em uma região exclusiva e moderna.",
+    title: "Tom Brooklin - Studios, 1 e 2 dorms. - Novo Lançamento",
+    description: "A leveza do Rio encontrou o seu lugar no Brooklin. Infraestrutura contemporânea adaptada ao seu estilo de vida.\n\nLocalização, movimento e saúde, com a tranquilidade de casa. Projetado para atender cada necessidade, trazendo mais praticidade para seu dia a dia.\n",
     excludePageFromSearch: false,
     language: "pt-BR",
-    socialImageAssetName: "Book-VP-Msssoema_DySNjDanTs68CpBbslSuB.webp",
+    socialImageAssetName: "capa_pbHzxDK0w9EBT_xpQUMu7.webp",
     socialImageUrl: undefined,
     status: undefined,
     redirect: undefined,

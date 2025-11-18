@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "ac364959-d418-4091-ab53-cec8dec5048b",
+    "id": "79bcbb09-af49-416e-be73-01b182215964",
     "projectId": "60874a00-2610-400a-8c61-ed2e971c89ab",
-    "version": 410,
-    "createdAt": "2025-11-17T14:43:00.641+00:00",
-    "updatedAt": "2025-11-17T14:43:00.641+00:00",
+    "version": 430,
+    "createdAt": "2025-11-18T15:07:54.664+00:00",
+    "updatedAt": "2025-11-18T15:07:54.664+00:00",
     "pages": {
       "meta": {
         "siteName": "TOM Brooklin",
@@ -17,16 +17,16 @@
       "homePage": {
         "id": "HVHWECDeJEVZmCqMMxUMZ",
         "name": "Home",
-        "title": "\"VP Moema - 1 e 2 dorms. - Lançamento VistaPlan\"",
+        "title": "\"Tom Brooklin - Studios, 1 e 2 dorms. - Novo Lançamento\"",
         "history": [
           ""
         ],
         "rootInstanceId": "75WqXwPicztYyy5BFAi3j",
         "meta": {
-          "description": "\"Na esquina da Lavandisca com a Gaivota, estar bem localizado é só o começo de viver Moema por inteiro. Quando decidimos avançar é porque sabemos que merecemos mais. Mais tempo, mais escolhas, mais vida e qualidade a cada dia. Com as melhores opções dentro e fora de casa em uma região exclusiva e moderna.\"",
+          "description": "\"A leveza do Rio encontrou o seu lugar no Brooklin. Infraestrutura contemporânea adaptada ao seu estilo de vida.\\n\\nLocalização, movimento e saúde, com a tranquilidade de casa. Projetado para atender cada necessidade, trazendo mais praticidade para seu dia a dia.\\n\"",
           "excludePageFromSearch": "false",
           "language": "\"pt-BR\"",
-          "socialImageAssetId": "0e3ed13ac86904add207b9c5c34a71535fbfe396bf990236c9a36ee29782922e",
+          "socialImageAssetId": "c70ca0f289f655e6f55a89ad14744f44e058072ad47c862e20c815de11294048",
           "custom": []
         },
         "path": ""
@@ -35,18 +35,18 @@
         {
           "id": "64hqrrMMtyYfyQkYHNbbj",
           "name": "sucesso",
-          "title": "\"VP Moema - Sucesso\"",
+          "title": "\"Tom Brooklin - Sucesso\"",
           "rootInstanceId": "oLslNaEfBGOM0QuOtimVJ",
           "meta": {
             "language": "\"pt-BR\"",
-            "socialImageAssetId": "0e3ed13ac86904add207b9c5c34a71535fbfe396bf990236c9a36ee29782922e"
+            "socialImageAssetId": "c70ca0f289f655e6f55a89ad14744f44e058072ad47c862e20c815de11294048"
           },
           "path": "/sucesso"
         },
         {
           "id": "EAHJS-jBvgUF7mog730yh",
           "name": "privacidade",
-          "title": "\"VP Moema - Política de Privacidade\"",
+          "title": "\"Tom Brooklin - Política de Privacidade\"",
           "history": [
             "/privacidade"
           ],
@@ -55,7 +55,7 @@
             "description": "\"Levamos a sua privacidade a sério. Esta Política de Privacidade explica como coletamos, usamos e protegemos seus dados pessoais quando você utiliza nossos sites e nossos serviços.\"",
             "excludePageFromSearch": "false",
             "language": "\"pt-BR\"",
-            "socialImageAssetId": "bc106023affa9bc996a054cd912ad668af3ca00a69e696be80a39893eb160bb2"
+            "socialImageAssetId": "c70ca0f289f655e6f55a89ad14744f44e058072ad47c862e20c815de11294048"
           },
           "path": "/privacidade"
         }
@@ -23481,7 +23481,7 @@
           "instanceId": "w4-4ToYfEMI0p_m4Ve0Z5",
           "name": "href",
           "type": "string",
-          "value": "https://wa.me/+5511999204878?text=Ol%C3%A1%2C%20tenho%20interesse%20no%20VP%20Moema%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es."
+          "value": "https://wa.me/+5511937234857?text=Ol%C3%A1%2C%20tenho%20interesse%20no%20TOM%20Brooklin%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es."
         }
       ],
       [
@@ -28452,7 +28452,7 @@
           "children": [
             {
               "type": "text",
-              "value": "1 e 2 dorms."
+              "value": "Studio, 1 e 2 dorms."
             }
           ]
         }
@@ -28504,7 +28504,7 @@
           "children": [
             {
               "type": "text",
-              "value": "25 a 60m²"
+              "value": "17 a 34m²"
             }
           ]
         }
@@ -28857,16 +28857,16 @@
   "page": {
     "id": "HVHWECDeJEVZmCqMMxUMZ",
     "name": "Home",
-    "title": "\"VP Moema - 1 e 2 dorms. - Lançamento VistaPlan\"",
+    "title": "\"Tom Brooklin - Studios, 1 e 2 dorms. - Novo Lançamento\"",
     "history": [
       ""
     ],
     "rootInstanceId": "75WqXwPicztYyy5BFAi3j",
     "meta": {
-      "description": "\"Na esquina da Lavandisca com a Gaivota, estar bem localizado é só o começo de viver Moema por inteiro. Quando decidimos avançar é porque sabemos que merecemos mais. Mais tempo, mais escolhas, mais vida e qualidade a cada dia. Com as melhores opções dentro e fora de casa em uma região exclusiva e moderna.\"",
+      "description": "\"A leveza do Rio encontrou o seu lugar no Brooklin. Infraestrutura contemporânea adaptada ao seu estilo de vida.\\n\\nLocalização, movimento e saúde, com a tranquilidade de casa. Projetado para atender cada necessidade, trazendo mais praticidade para seu dia a dia.\\n\"",
       "excludePageFromSearch": "false",
       "language": "\"pt-BR\"",
-      "socialImageAssetId": "0e3ed13ac86904add207b9c5c34a71535fbfe396bf990236c9a36ee29782922e",
+      "socialImageAssetId": "c70ca0f289f655e6f55a89ad14744f44e058072ad47c862e20c815de11294048",
       "custom": []
     },
     "path": ""
@@ -28875,16 +28875,16 @@
     {
       "id": "HVHWECDeJEVZmCqMMxUMZ",
       "name": "Home",
-      "title": "\"VP Moema - 1 e 2 dorms. - Lançamento VistaPlan\"",
+      "title": "\"Tom Brooklin - Studios, 1 e 2 dorms. - Novo Lançamento\"",
       "history": [
         ""
       ],
       "rootInstanceId": "75WqXwPicztYyy5BFAi3j",
       "meta": {
-        "description": "\"Na esquina da Lavandisca com a Gaivota, estar bem localizado é só o começo de viver Moema por inteiro. Quando decidimos avançar é porque sabemos que merecemos mais. Mais tempo, mais escolhas, mais vida e qualidade a cada dia. Com as melhores opções dentro e fora de casa em uma região exclusiva e moderna.\"",
+        "description": "\"A leveza do Rio encontrou o seu lugar no Brooklin. Infraestrutura contemporânea adaptada ao seu estilo de vida.\\n\\nLocalização, movimento e saúde, com a tranquilidade de casa. Projetado para atender cada necessidade, trazendo mais praticidade para seu dia a dia.\\n\"",
         "excludePageFromSearch": "false",
         "language": "\"pt-BR\"",
-        "socialImageAssetId": "0e3ed13ac86904add207b9c5c34a71535fbfe396bf990236c9a36ee29782922e",
+        "socialImageAssetId": "c70ca0f289f655e6f55a89ad14744f44e058072ad47c862e20c815de11294048",
         "custom": []
       },
       "path": ""
@@ -28892,18 +28892,18 @@
     {
       "id": "64hqrrMMtyYfyQkYHNbbj",
       "name": "sucesso",
-      "title": "\"VP Moema - Sucesso\"",
+      "title": "\"Tom Brooklin - Sucesso\"",
       "rootInstanceId": "oLslNaEfBGOM0QuOtimVJ",
       "meta": {
         "language": "\"pt-BR\"",
-        "socialImageAssetId": "0e3ed13ac86904add207b9c5c34a71535fbfe396bf990236c9a36ee29782922e"
+        "socialImageAssetId": "c70ca0f289f655e6f55a89ad14744f44e058072ad47c862e20c815de11294048"
       },
       "path": "/sucesso"
     },
     {
       "id": "EAHJS-jBvgUF7mog730yh",
       "name": "privacidade",
-      "title": "\"VP Moema - Política de Privacidade\"",
+      "title": "\"Tom Brooklin - Política de Privacidade\"",
       "history": [
         "/privacidade"
       ],
@@ -28912,7 +28912,7 @@
         "description": "\"Levamos a sua privacidade a sério. Esta Política de Privacidade explica como coletamos, usamos e protegemos seus dados pessoais quando você utiliza nossos sites e nossos serviços.\"",
         "excludePageFromSearch": "false",
         "language": "\"pt-BR\"",
-        "socialImageAssetId": "bc106023affa9bc996a054cd912ad668af3ca00a69e696be80a39893eb160bb2"
+        "socialImageAssetId": "c70ca0f289f655e6f55a89ad14744f44e058072ad47c862e20c815de11294048"
       },
       "path": "/privacidade"
     }

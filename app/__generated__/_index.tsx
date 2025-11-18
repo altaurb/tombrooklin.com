@@ -11,7 +11,7 @@ import { Dialog as Dialog, DialogTrigger as DialogTrigger, DialogOverlay as Dial
 
       export const projectId = "60874a00-2610-400a-8c61-ed2e971c89ab";
 
-      export const lastPublished = "2025-11-17T14:43:00.641Z";
+      export const lastPublished = "2025-11-18T15:07:54.664Z";
 
       export const siteName = "TOM Brooklin";
 
@@ -101,7 +101,7 @@ className={`w-element c1qsugqr cf544xs c18u3yxh c1jlsicg c1f1zjsr`}>
 {""}
 <span
 className={`w-element c129kiky cf544xs c1umj4sg c1t6xsw6 c13a20y7`}>
-{"1 e 2 dorms."}
+{"Studio, 1 e 2 dorms."}
 </span>
 </Heading>
 <Heading
@@ -115,7 +115,7 @@ className={`w-element c1qsugqr cf544xs c18u3yxh c1jlsicg c1f1zjsr`}>
 {""}
 <span
 className={`w-element c129kiky cf544xs c1umj4sg c1t6xsw6 c13a20y7`}>
-{"25 a 60m²"}
+{"17 a 34m²"}
 </span>
 </Heading>
 </Box>

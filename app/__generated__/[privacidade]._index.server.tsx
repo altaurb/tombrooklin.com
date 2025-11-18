@@ -21,11 +21,11 @@ export const getResources = (_props: { system: System }) => {
   resources: Record<string, any>;
 }): PageMeta => {
   return {
-    title: "VP Moema - Política de Privacidade",
+    title: "Tom Brooklin - Política de Privacidade",
     description: "Levamos a sua privacidade a sério. Esta Política de Privacidade explica como coletamos, usamos e protegemos seus dados pessoais quando você utiliza nossos sites e nossos serviços.",
     excludePageFromSearch: false,
     language: "pt-BR",
-    socialImageAssetName: "112311-Moved-Osasco_8ipCzY9EiECDIsaPfDKXg.webp",
+    socialImageAssetName: "capa_pbHzxDK0w9EBT_xpQUMu7.webp",
     socialImageUrl: undefined,
     status: undefined,
     redirect: undefined,

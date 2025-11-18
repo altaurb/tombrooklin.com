@@ -21,11 +21,11 @@ export const getResources = (_props: { system: System }) => {
   resources: Record<string, any>;
 }): PageMeta => {
   return {
-    title: "VP Moema - Sucesso",
+    title: "Tom Brooklin - Sucesso",
     description: undefined,
     excludePageFromSearch: undefined,
     language: "pt-BR",
-    socialImageAssetName: "Book-VP-Msssoema_DySNjDanTs68CpBbslSuB.webp",
+    socialImageAssetName: "capa_pbHzxDK0w9EBT_xpQUMu7.webp",
     socialImageUrl: undefined,
     status: undefined,
     redirect: undefined,
