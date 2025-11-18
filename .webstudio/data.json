@@ -1,15 +1,15 @@
 {
   "build": {
-    "id": "30b466a1-0c16-4555-bc02-3c9641ad878c",
+    "id": "83c53b43-16f7-4b3f-bdb0-0a861c896f85",
     "projectId": "60874a00-2610-400a-8c61-ed2e971c89ab",
-    "version": 439,
-    "createdAt": "2025-11-18T16:07:56.816+00:00",
-    "updatedAt": "2025-11-18T16:07:56.816+00:00",
+    "version": 442,
+    "createdAt": "2025-11-18T21:36:00.863+00:00",
+    "updatedAt": "2025-11-18T21:36:00.863+00:00",
     "pages": {
       "meta": {
         "siteName": "TOM Brooklin",
         "faviconAssetId": "65c7961d910d0d6f8651a879b0e52ab06606221c7c59a3868a656614901221ec",
-        "code": ""
+        "code": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-17730869888\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'AW-17730869888');\n</script>"
       },
       "compiler": {
         "atomicStyles": true
@@ -23755,16 +23755,6 @@
           "name": "href",
           "type": "string",
           "value": "#inicio"
-        }
-      ],
-      [
-        "ydbWkHI_wgmNDHea1WA4E",
-        {
-          "id": "ydbWkHI_wgmNDHea1WA4E",
-          "instanceId": "s8b3mZUCaCA9TKrs2iwnN",
-          "name": "code",
-          "type": "string",
-          "value": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-17099269085\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'AW-17099269085');\n</script>"
         }
       ],
       [

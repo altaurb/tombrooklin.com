@@ -11,7 +11,7 @@ import { Dialog as Dialog, DialogTrigger as DialogTrigger, DialogOverlay as Dial
 
       export const projectId = "60874a00-2610-400a-8c61-ed2e971c89ab";
 
-      export const lastPublished = "2025-11-18T16:07:56.816Z";
+      export const lastPublished = "2025-11-18T21:36:00.863Z";
 
       export const siteName = "TOM Brooklin";
 
@@ -29,9 +29,24 @@ import { Dialog as Dialog, DialogTrigger as DialogTrigger, DialogOverlay as Dial
 
       
             
+            const Script = ({children, ...props}: Record<string, string | boolean>) => {
+              if (children == null) {
+                return <script {...props} />;
+              }
+
+              return <script {...props} dangerouslySetInnerHTML={{__html: children}} />;
+            };
+            const Style = ({children, ...props}: Record<string, string | boolean>) => {
+              if (children == null) {
+                return <style {...props} />;
+              }
+
+              return <style {...props} dangerouslySetInnerHTML={{__html: children}} />;
+            };
+            
 
             export const CustomCode = () => {
-              return (<></>);
+              return (<><Script async src={"https://www.googletagmanager.com/gtag/js?id=AW-17730869888"}></Script><Script>{"\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'AW-17730869888');\n"}</Script></>);
             }
           
 
@@ -39,7 +54,6 @@ import { Dialog as Dialog, DialogTrigger as DialogTrigger, DialogOverlay as Dial
 return <Body
 className={`w-body c1k2m0v5 c1h4jc97 cumsiip c1qsugqr c1map85x`}>
 <HtmlEmbed
-code={"<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-17099269085\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'AW-17099269085');\n</script>"}
 className={`w-html-embed`} />
 <Box
 id={"inicio"}

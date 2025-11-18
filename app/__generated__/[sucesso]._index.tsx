@@ -10,7 +10,7 @@ import { Box as Box, Heading as Heading, Text as Text, HtmlEmbed as HtmlEmbed, I
 
       export const projectId = "60874a00-2610-400a-8c61-ed2e971c89ab";
 
-      export const lastPublished = "2025-11-18T16:07:56.816Z";
+      export const lastPublished = "2025-11-18T21:36:00.863Z";
 
       export const siteName = "TOM Brooklin";
 
