@@ -10,7 +10,7 @@ import { Box as Box, Heading as Heading, Text as Text, HtmlEmbed as HtmlEmbed, I
 
       export const projectId = "60874a00-2610-400a-8c61-ed2e971c89ab";
 
-      export const lastPublished = "2025-11-18T21:36:00.863Z";
+      export const lastPublished = "2025-11-18T21:41:19.253Z";
 
       export const siteName = "TOM Brooklin";
 
@@ -32,7 +32,7 @@ import { Box as Box, Heading as Heading, Text as Text, HtmlEmbed as HtmlEmbed, I
 return <Body
 className={`w-body cumsiip`}>
 <HtmlEmbed
-code={"<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-17099269085\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'AW-17099269085');\n</script>\n\n<!-- Event snippet for Enviar formulário de lead conversion page -->\n<script>\n  gtag('event', 'conversion', {\n      'send_to': 'AW-17099269085/IKz-CPL-9soaEN3HyNk_',\n      'value': 1.0,\n      'currency': 'BRL'\n  });\n</script>\n"}
+code={"<!-- Event snippet for Lead Form - TOM Brooklin conversion page -->\n<script>\n  gtag('event', 'conversion', {'send_to': 'AW-17730869888/HtBhCIrM0MIbEIC13oZC'});\n</script>\n"}
 className={`w-html-embed`} />
 <Box
 className={`w-box c18pbl6 cl2takc cpq74bm c1wutpue chp3cnt coylvo7 cbvbtzu c1dwilak c1gn97o1 cmtnauy c68yfzg c1auzgzp cutxx5e c173t3g6 c1800mp1 c1esu2y0 c1ry1w9m c16iz1um cd2xqan c1ieatrl c11f2jte cj65elg c1cvffav cu5zju4`}>
