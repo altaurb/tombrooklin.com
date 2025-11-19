@@ -11,7 +11,7 @@ import { Dialog as Dialog, DialogTrigger as DialogTrigger, DialogOverlay as Dial
 
       export const projectId = "60874a00-2610-400a-8c61-ed2e971c89ab";
 
-      export const lastPublished = "2025-11-18T21:41:19.253Z";
+      export const lastPublished = "2025-11-19T13:01:20.159Z";
 
       export const siteName = "TOM Brooklin";
 
@@ -46,7 +46,7 @@ import { Dialog as Dialog, DialogTrigger as DialogTrigger, DialogOverlay as Dial
             
 
             export const CustomCode = () => {
-              return (<><Script async src={"https://www.googletagmanager.com/gtag/js?id=AW-17730869888"}></Script><Script>{"\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'AW-17730869888');\n"}</Script></>);
+              return (<><Script>{"(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-5JKNXXDT');"}</Script></>);
             }
           
 
@@ -54,6 +54,7 @@ import { Dialog as Dialog, DialogTrigger as DialogTrigger, DialogOverlay as Dial
 return <Body
 className={`w-body c1k2m0v5 c1h4jc97 cumsiip c1qsugqr c1map85x`}>
 <HtmlEmbed
+code={"<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-5JKNXXDT\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"}
 className={`w-html-embed`} />
 <Box
 id={"inicio"}

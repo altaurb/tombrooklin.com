@@ -1,15 +1,15 @@
 {
   "build": {
-    "id": "1e4c5923-30a4-4641-b816-a898c106a7fc",
+    "id": "457c13b5-9047-46a8-9f42-6d098f091bc3",
     "projectId": "60874a00-2610-400a-8c61-ed2e971c89ab",
-    "version": 444,
-    "createdAt": "2025-11-18T21:41:19.253+00:00",
-    "updatedAt": "2025-11-18T21:41:19.253+00:00",
+    "version": 469,
+    "createdAt": "2025-11-19T13:01:20.159+00:00",
+    "updatedAt": "2025-11-19T13:01:20.159+00:00",
     "pages": {
       "meta": {
         "siteName": "TOM Brooklin",
         "faviconAssetId": "65c7961d910d0d6f8651a879b0e52ab06606221c7c59a3868a656614901221ec",
-        "code": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-17730869888\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'AW-17730869888');\n</script>\n"
+        "code": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-5JKNXXDT');</script>\n<!-- End Google Tag Manager -->"
       },
       "compiler": {
         "atomicStyles": true
@@ -23764,7 +23764,7 @@
           "instanceId": "kCOlWR-e0xq8oZwMcHVCM",
           "name": "code",
           "type": "string",
-          "value": "<!-- Event snippet for Lead Form - TOM Brooklin conversion page -->\n<script>\n  gtag('event', 'conversion', {'send_to': 'AW-17730869888/HtBhCIrM0MIbEIC13oZC'});\n</script>\n"
+          "value": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-5JKNXXDT\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"
         }
       ],
       [
@@ -24945,6 +24945,16 @@
           "name": "code",
           "type": "string",
           "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" fill=\"white\" viewBox=\"0 0 256 256\"><path d=\"M216,40H40A16,16,0,0,0,24,56V200a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V56A16,16,0,0,0,216,40Zm0,160H40V56H216V200ZM176,88a48,48,0,0,1-96,0,8,8,0,0,1,16,0,32,32,0,0,0,64,0,8,8,0,0,1,16,0Z\"></path></svg>"
+        }
+      ],
+      [
+        "eYAF_pUFWBO6zeQtJ3fnR",
+        {
+          "id": "eYAF_pUFWBO6zeQtJ3fnR",
+          "instanceId": "s8b3mZUCaCA9TKrs2iwnN",
+          "name": "code",
+          "type": "string",
+          "value": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-5JKNXXDT\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"
         }
       ]
     ],
