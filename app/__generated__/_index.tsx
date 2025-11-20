@@ -11,7 +11,7 @@ import { Dialog as Dialog, DialogTrigger as DialogTrigger, DialogOverlay as Dial
 
       export const projectId = "60874a00-2610-400a-8c61-ed2e971c89ab";
 
-      export const lastPublished = "2025-11-19T13:21:45.729Z";
+      export const lastPublished = "2025-11-20T22:25:17.773Z";
 
       export const siteName = "TOM Brooklin";
 
@@ -664,7 +664,7 @@ className={`w-paragraph cpy6ziw c149l5xv cnjig1w c1o1zmkx`}>
 <Link
 target={"_blank"}
 id={"wa-button"}
-href={"https://wa.me/+5511937234857?text=Ol%C3%A1%2C%20tenho%20interesse%20no%20TOM%20Brooklin%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es."}
+href={"https://wa.me/+551150521414?text=Ol%C3%A1%2C%20tenho%20interesse%20no%20TOM%20Brooklin%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es."}
 className={`w-link c1gn97o1 cmf3gxr c46bgk5 c17y6xpp cd4gmss cv24nze c108d0jy cctsvme cwdqfle cmtnauy c68yfzg csb8dtc c1felbvi c1nvbr17 c1ob30gg`}>
 <Box
 className={`w-box c1akx6b5 c9x45nu c5jker4 c11930ui c1n9iez5 c1oot2g8 c5ui9un c1vwy36z c16m6yhf crw2pn0 cv24nze c74relk c2112hx c19rn9de c1hft24e chftxvp c5zz7hp ciibbkm cmhhz3t c1gc2x4i`}>
