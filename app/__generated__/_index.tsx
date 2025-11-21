@@ -11,7 +11,7 @@ import { Dialog as Dialog, DialogTrigger as DialogTrigger, DialogOverlay as Dial
 
       export const projectId = "60874a00-2610-400a-8c61-ed2e971c89ab";
 
-      export const lastPublished = "2025-11-20T22:25:17.773Z";
+      export const lastPublished = "2025-11-21T18:35:57.002Z";
 
       export const siteName = "TOM Brooklin";
 
@@ -696,17 +696,17 @@ className={`w-box c18pbl6 cl2takc cpq74bm c1wutpue chp3cnt coylvo7 c9x45nu c5jke
 href={"#inicio"}
 className={`w-link c108d0jy cd23qux cq8csui c1lmclx2 cp4gdud cx93gdu c1tsj3cd`}>
 <Image
-src={"/assets/Logo_LGm-YmulBHUUz9_9wQdHF.svg"}
-width={1073}
-height={543}
+src={"/assets/Logo_White_67kn_eShZwVJeAi82y8Lw.svg"}
+width={117}
+height={34}
 alt={""}
-className={`w-image ci942lc cx93gdu c2kmsbi c1myo4eu cyjf4dz`} />
+className={`w-image c15vj4v8 cx93gdu c2kmsbi c1myo4eu cyjf4dz`} />
 <Image
-src={"/assets/Logo_LGm-YmulBHUUz9_9wQdHF.svg"}
-width={1073}
-height={543}
+src={"/assets/Logomark_White_gADuWM2d8fVGtKo9DjUwx.svg"}
+width={36}
+height={34}
 alt={""}
-className={`w-image cq5gtyb cx93gdu c1vsi70n c1fzbwwp cuw9cwu c1541zyy c4ve2sd`} />
+className={`w-image cq5gtyb cx93gdu c1vsi70n c1fzbwwp c774cxu cuw9cwu c1541zyy c4ve2sd`} />
 </Link>
 <Box
 className={`w-box c1gn97o1 cd4gmss c6vhksc c1s449hu c3in6f7 c1rgix91 c1r11ioj cn6moax c1q4zydl c1opxtli c1jhq5vf c15buysa c1n6m90e cgo44qf c13nm82y cv83gzq`}>

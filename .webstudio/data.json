@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "de10fb1c-c579-449e-9f12-d13e27a886d8",
+    "id": "2899e517-5b8d-4d2f-aa7a-c0cbf0df1b22",
     "projectId": "60874a00-2610-400a-8c61-ed2e971c89ab",
-    "version": 473,
-    "createdAt": "2025-11-20T22:25:17.773+00:00",
-    "updatedAt": "2025-11-20T22:25:17.773+00:00",
+    "version": 488,
+    "createdAt": "2025-11-21T18:35:57.002+00:00",
+    "updatedAt": "2025-11-21T18:35:57.002+00:00",
     "pages": {
       "meta": {
         "siteName": "TOM Brooklin",
@@ -14772,8 +14772,8 @@
           "property": "height",
           "value": {
             "type": "unit",
-            "value": 32,
-            "unit": "px"
+            "unit": "px",
+            "value": 36
           }
         }
       ],
@@ -19454,6 +19454,19 @@
             "type": "unit",
             "unit": "px",
             "value": 24
+          }
+        }
+      ],
+      [
+        "LzFj88dUBoifFKw8ioT2C:tHS8zcPAFHnQRlgZJrj7A:height:",
+        {
+          "breakpointId": "tHS8zcPAFHnQRlgZJrj7A",
+          "styleSourceId": "LzFj88dUBoifFKw8ioT2C",
+          "property": "height",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 36
           }
         }
       ]
@@ -24334,7 +24347,7 @@
           "instanceId": "LZBvO0OSn13f4gwh_cr14",
           "name": "src",
           "type": "asset",
-          "value": "76cc41716256cf7929b54fa2c0fcca00f68f801057ced0c34cc6f6ef86f63919"
+          "value": "095fbcfe97b6de44abf40a726b6615df1b91d6b14a2cadea8a99fd3afeb8c99d"
         }
       ],
       [
@@ -24344,7 +24357,7 @@
           "instanceId": "LZBvO0OSn13f4gwh_cr14",
           "name": "width",
           "type": "asset",
-          "value": "76cc41716256cf7929b54fa2c0fcca00f68f801057ced0c34cc6f6ef86f63919"
+          "value": "095fbcfe97b6de44abf40a726b6615df1b91d6b14a2cadea8a99fd3afeb8c99d"
         }
       ],
       [
@@ -24354,7 +24367,7 @@
           "instanceId": "LZBvO0OSn13f4gwh_cr14",
           "name": "height",
           "type": "asset",
-          "value": "76cc41716256cf7929b54fa2c0fcca00f68f801057ced0c34cc6f6ef86f63919"
+          "value": "095fbcfe97b6de44abf40a726b6615df1b91d6b14a2cadea8a99fd3afeb8c99d"
         }
       ],
       [
@@ -24444,7 +24457,7 @@
           "instanceId": "LZBvO0OSn13f4gwh_cr14",
           "name": "alt",
           "type": "asset",
-          "value": "76cc41716256cf7929b54fa2c0fcca00f68f801057ced0c34cc6f6ef86f63919"
+          "value": "095fbcfe97b6de44abf40a726b6615df1b91d6b14a2cadea8a99fd3afeb8c99d"
         }
       ],
       [
@@ -24534,7 +24547,7 @@
           "instanceId": "syPk59fNquCCJx7uON5Jz",
           "name": "src",
           "type": "asset",
-          "value": "76cc41716256cf7929b54fa2c0fcca00f68f801057ced0c34cc6f6ef86f63919"
+          "value": "9e609b6ab2e11fcc7b3fb79a7f250ceb865de0bbedd779326f7f3272dae5243b"
         }
       ],
       [
@@ -24544,7 +24557,7 @@
           "instanceId": "syPk59fNquCCJx7uON5Jz",
           "name": "width",
           "type": "asset",
-          "value": "76cc41716256cf7929b54fa2c0fcca00f68f801057ced0c34cc6f6ef86f63919"
+          "value": "9e609b6ab2e11fcc7b3fb79a7f250ceb865de0bbedd779326f7f3272dae5243b"
         }
       ],
       [
@@ -24554,7 +24567,7 @@
           "instanceId": "syPk59fNquCCJx7uON5Jz",
           "name": "height",
           "type": "asset",
-          "value": "76cc41716256cf7929b54fa2c0fcca00f68f801057ced0c34cc6f6ef86f63919"
+          "value": "9e609b6ab2e11fcc7b3fb79a7f250ceb865de0bbedd779326f7f3272dae5243b"
         }
       ],
       [
@@ -24564,7 +24577,7 @@
           "instanceId": "syPk59fNquCCJx7uON5Jz",
           "name": "alt",
           "type": "asset",
-          "value": "76cc41716256cf7929b54fa2c0fcca00f68f801057ced0c34cc6f6ef86f63919"
+          "value": "9e609b6ab2e11fcc7b3fb79a7f250ceb865de0bbedd779326f7f3272dae5243b"
         }
       ],
       [
@@ -29410,6 +29423,19 @@
       "meta": {
         "width": 676,
         "height": 665
+      }
+    },
+    {
+      "id": "9e609b6ab2e11fcc7b3fb79a7f250ceb865de0bbedd779326f7f3272dae5243b",
+      "name": "Logomark_White_gADuWM2d8fVGtKo9DjUwx.svg",
+      "projectId": "60874a00-2610-400a-8c61-ed2e971c89ab",
+      "size": 1738,
+      "type": "image",
+      "format": "svg",
+      "createdAt": "2025-11-21T18:35:18.233+00:00",
+      "meta": {
+        "width": 36,
+        "height": 34
       }
     },
     {
